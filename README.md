@@ -20,7 +20,7 @@ A high-performance, real-time multiplayer game where two developers race to type
 
 **Frontend:** React (Vite), Tailwind CSS.
 
-## Quick Start (Run Locally)
+## Quick Start (How to Run Locally)
 
 Note: Since this is a multiplayer game, you must open the app in two separate browser windows to simulate two players.
 
@@ -32,7 +32,7 @@ Open a terminal in the root folder.
 
 ### Navigate to the server directory and install dependencies:
 
-cd server
+cd server, and then
 npm install
 
 
@@ -51,7 +51,7 @@ Open a new terminal window.
 
 ### Navigate to the client directory and install dependencies:
 
-cd client
+cd client, and then
 npm install
 
 
@@ -76,7 +76,7 @@ Status will show: "Awaiting Challenger..."
 
 ### Player 2:
 
-Open a New Tab (or Incognito Window).
+Open a New Tab.
 
 Go to http://localhost:5173.
 
